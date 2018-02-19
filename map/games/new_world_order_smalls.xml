@@ -1782,7 +1782,7 @@
       <option name="transportCost" value="3"/>
       <option name="attack" value="2"/>
       <option name="defense" value="2"/>
-      <option name="Artillery" value="true"/>
+      <option name="artillery" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="Mot.Inf" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
       <option name="movement" value="3"/>
@@ -1790,7 +1790,7 @@
       <option name="canBlitz" value="true"/>
       <option name="attack" value="1"/>
       <option name="defense" value="2"/>
-      <option name="Artillery" value="true"/>
+      <option name="artillery" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="Panzer" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
       <option name="movement" value="2"/>
