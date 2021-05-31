@@ -1,0 +1,5 @@
+map_name: nwo_variants
+games:
+- {game_name: New World Order 5 Nations, file_name: NWO_5_Nation.xml}
+- {game_name: NWO Smalls, file_name: new_world_order_smalls.xml}
+- {game_name: NWO_Eastern_Front, file_name: NWO_Eastern_Front.xml}
